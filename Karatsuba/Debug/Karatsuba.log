@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\progo\google drive\3090\karatsuba\karatsuba\main.cpp(25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\progo\google drive\3090\karatsuba\karatsuba\main.cpp(27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Karatsuba.vcxproj -> C:\Users\Progo\Google Drive\3090\Karatsuba\Debug\Karatsuba.exe
+  Karatsuba.vcxproj -> C:\Users\Progo\Google Drive\3090\Karatsuba\Debug\Karatsuba.pdb (Partial PDB)
